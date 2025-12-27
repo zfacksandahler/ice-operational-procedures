@@ -24,6 +24,8 @@ This SOP applies to all ICE technicians and authorized laboratory personnel resp
   - Safety goggles or full‑face shield
   - Chemical‑resistant boots
 - Portable HEPA‑vacuum with mercury‑specific filter (ICE P/N: HVP‑200)
+- MercuryVap 3000 mercury vapor analyzer (ICE P/N: MV3000)
+- MercuryVap 3000 calibration kit (ICE P/N: MV3000‑CAL)
 - Mercury‑absorbent powder (Hg‑Absorb Plus)
 - Plastic dustpan and scraper
 - Sealed, leak‑proof hazardous‑waste containers (labelled “Mercury Waste”)
@@ -38,6 +40,13 @@ This SOP applies to all ICE technicians and authorized laboratory personnel resp
 2. **Don appropriate PPE** before approaching the spill.
 3. **Estimate spill volume** and note any broken glass or sharp objects.
 4. **Check ventilation:** Ensure local exhaust ventilation (e.g., fume‑hood sash) is operating.
+
+### 5.1.1 MercuryVap 3000 Sensor Calibration and Use
+1. **Pre‑use calibration:** Before entering the spill area, perform a zero‑point calibration using the MercuryVap 3000 calibration kit according to the manufacturer's instructions.
+2. **Span calibration:** Verify sensor accuracy with the supplied span‑gas canister (concentration 0.1 mg/m³). Adjust if deviation exceeds ±5%.
+3. **Field deployment:** Power on the MercuryVap 3000 and allow a 60‑second warm‑up period. Hold the sensor probe 10–15 cm above the spill surface while slowly sweeping the area.
+4. **Reading interpretation:** Record the peak mercury‑vapor concentration displayed. If the reading exceeds 0.025 mg/m³, maintain PPE and continue monitoring until levels drop below the permissible limit after clean‑up.
+5. **Post‑use decontamination:** Wipe the probe with a cloth dampened with 10% sodium thiosulfate solution and store the unit in its protective case.
 
 ### 5.2 Containment
 1. Surround the spill with mercury‑absorbent powder to prevent further spread.
